@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.city {
+    color: white;
+    background-color: orangered;
+    padding: 10px;
+}
